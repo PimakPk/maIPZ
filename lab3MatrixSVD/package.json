@@ -1,0 +1,16 @@
+{
+  "name": "lab3matrixsvd",
+  "version": "1.0.0",
+  "main": "lab3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mathjs": "^14.0.0",
+    "ml-matrix": "^6.12.0"
+  }
+}
